@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## Mousesports did a rebranding and changed their iconic logo. What the fuck were they thinking?
 
 ### Nice, clean, reading!
 
