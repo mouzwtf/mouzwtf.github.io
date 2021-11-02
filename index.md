@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<img src="images/mouzrebrand.svg" alt="mouz rebrand">
+
 ## Mousesports did a rebranding and replaced their iconic logo. WTF were they thinking?
 
 ### This can't be real
